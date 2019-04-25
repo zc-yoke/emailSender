@@ -1,0 +1,295 @@
+# depslib dependency file v1.0
+1552793560 source:e:\000_coding\pdm_develop\email\email.cpp
+	"email.h"
+
+1552793808 e:\000_coding\pdm_develop\email\email.h
+	<curl.h>
+
+1541078468 e:\000_coding\pdm_develop\email\curl\include\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"typecheck-gcc.h"
+
+1541078468 e:\000_coding\pdm_develop\email\curl\include\curlver.h
+
+1541078468 e:\000_coding\pdm_develop\email\curl\include\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1541078468 e:\000_coding\pdm_develop\email\curl\include\easy.h
+
+1541078468 e:\000_coding\pdm_develop\email\curl\include\multi.h
+	"curl.h"
+
+1541078468 e:\000_coding\pdm_develop\email\curl\include\urlapi.h
+
+1541078468 e:\000_coding\pdm_develop\email\curl\include\typecheck-gcc.h
+
+1553418126 source:e:\000_coding\pdm_develop\email\main.cpp
+	<stdio.h>
+	<string.h>
+	<curl.h>
+	<string>
+	<fstream>
+	<iostream>
+
+1541078468 e:\000_coding\000_soft_develop_lib\libcurl_7_62\include\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"typecheck-gcc.h"
+
+1541078468 e:\000_coding\000_soft_develop_lib\libcurl_7_62\include\curlver.h
+
+1541078468 e:\000_coding\000_soft_develop_lib\libcurl_7_62\include\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1541078468 e:\000_coding\000_soft_develop_lib\libcurl_7_62\include\easy.h
+
+1541078468 e:\000_coding\000_soft_develop_lib\libcurl_7_62\include\multi.h
+	"curl.h"
+
+1541078468 e:\000_coding\000_soft_develop_lib\libcurl_7_62\include\urlapi.h
+
+1541078468 e:\000_coding\000_soft_develop_lib\libcurl_7_62\include\typecheck-gcc.h
+
+1541078468 e:\000_coding\pdm_develop\email\libcurl_7_62\include\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"typecheck-gcc.h"
+
+1541078468 e:\000_coding\pdm_develop\email\libcurl_7_62\include\curlver.h
+
+1541078468 e:\000_coding\pdm_develop\email\libcurl_7_62\include\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1541078468 e:\000_coding\pdm_develop\email\libcurl_7_62\include\easy.h
+
+1541078468 e:\000_coding\pdm_develop\email\libcurl_7_62\include\multi.h
+	"curl.h"
+
+1541078468 e:\000_coding\pdm_develop\email\libcurl_7_62\include\urlapi.h
+
+1541078468 e:\000_coding\pdm_develop\email\libcurl_7_62\include\typecheck-gcc.h
+
+1552817859 source:e:\000_coding\pdm_develop\email\src\base64.cpp
+	"base64.h"
+	<iostream>
+
+1552816904 e:\000_coding\pdm_develop\email\include\base64.h
+	<string>
+
+1554297231 e:\000_coding\pdm_develop\email\include\mailsender.h
+	<vector>
+	<string>
+	<curl.h>
+	<iostream>
+
+1554298051 source:e:\000_coding\pdm_develop\email\src\mailsender.cpp
+	"mailSender.h"
+	"b64.h"
+	<time.h>
+	<ctime>
+	<fstream>
+	<assert.h>
+
+1540889640 c:\curl-7.62.0-win64-mingw\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"typecheck-gcc.h"
+
+1540939442 c:\curl-7.62.0-win64-mingw\include\curl\curlver.h
+
+1540768290 c:\curl-7.62.0-win64-mingw\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1540605654 c:\curl-7.62.0-win64-mingw\include\curl\easy.h
+
+1539840472 c:\curl-7.62.0-win64-mingw\include\curl\multi.h
+	"curl.h"
+
+1540605654 c:\curl-7.62.0-win64-mingw\include\curl\urlapi.h
+
+1540605654 c:\curl-7.62.0-win64-mingw\include\curl\typecheck-gcc.h
+
+1549346412 e:\000_coding\000_soft_develop_lib\curl-7.64.0-win32-mingw\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"typecheck-gcc.h"
+
+1549407480 e:\000_coding\000_soft_develop_lib\curl-7.64.0-win32-mingw\include\curl\curlver.h
+
+1547010028 e:\000_coding\000_soft_develop_lib\curl-7.64.0-win32-mingw\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1540605654 e:\000_coding\000_soft_develop_lib\curl-7.64.0-win32-mingw\include\curl\easy.h
+
+1539840472 e:\000_coding\000_soft_develop_lib\curl-7.64.0-win32-mingw\include\curl\multi.h
+	"curl.h"
+
+1549346412 e:\000_coding\000_soft_develop_lib\curl-7.64.0-win32-mingw\include\curl\urlapi.h
+	"curl.h"
+
+1547529586 e:\000_coding\000_soft_develop_lib\curl-7.64.0-win32-mingw\include\curl\typecheck-gcc.h
+
+1502373896 source:e:\000_coding\pdm_develop\email\src\decode.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"b64.h"
+
+1502373896 e:\000_coding\pdm_develop\email\include\b64.h
+
+1502373896 source:e:\000_coding\pdm_develop\email\src\encode.c
+	<stdio.h>
+	<stdlib.h>
+	"b64.h"
+
+1553398893 source:e:\000_coding\pdm_develop\email\src\variant.cpp
+	"variant.h"
+
+1553398904 e:\000_coding\pdm_develop\email\include\variant.h
+	<stddef.h>
+	<string.h>
+	<string>
+
+1553418004 source:e:\000_coding\pdm_develop\email\src\randomgenerate.cpp
+	<time.h>
+	<iostream>
+	<stdlib.h>
+
+1533462292 e:\000_coding\pdm_develop\email\include\randomgenerate.h
+	<iostream>
+	"randomGenerate.h"
+	<stdlib.h>
+	<limits>
+	<time.h>
+
+1553691595 e:\000_coding\pdm_develop\base64\include\b64.h
+	<crtdefs.h>
+
+1553418126 source:e:\000_coding\pdm_develop\email\test\main.cpp
+	<stdio.h>
+	<string.h>
+	<curl.h>
+	<string>
+	<fstream>
+	<iostream>
+
+1554297891 source:e:\000_coding\pdm_develop\email\test\textplainemail.cpp
+	"mailSender.h"
+	<fstream>
+	<iostream>
+
+1554298051 source:e:\000_coding\pdm_develop\email\mailsender.cpp
+	"mailSender.h"
+	"b64.h"
+	<time.h>
+	<ctime>
+	<fstream>
+	<assert.h>
+
+1554297231 e:\000_coding\pdm_develop\email\mailsender.h
+	<vector>
+	<string>
+	<curl.h>
+	<iostream>
+
+1554297891 source:e:\000_coding\pdm_develop\email\textplainemail.cpp
+	"mailSender.h"
+	<fstream>
+	<iostream>
+
